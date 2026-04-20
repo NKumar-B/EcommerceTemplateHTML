@@ -2,7 +2,10 @@
 
 Nithya Mart is a multi-page web application template designed for a retail environment. This project serves as a foundational structure for an online marketplace, utilizing clean HTML5 to organize products, user registration, and business contact information.
 
-## 🚀 Features
+<img width="1919" height="958" alt="image" src="https://github.com/user-attachments/assets/5a0e5500-05f6-4cfc-bcad-0a42b1654fe4" /><br/>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5e804aa8-2486-4da0-a986-a49387fed951" />
+
+## Features
 
 * **Multi-Page Navigation:** Separate modules for Men's, Women's, and Children's fashions, as well as Electronics.
 * **User Registration:** Integrated registration form linked to a dedicated portal.
@@ -10,7 +13,7 @@ Nithya Mart is a multi-page web application template designed for a retail envir
 * **Contact Information:** Ready-to-use footer with mobile, email, and website placeholders.
 * **Image Integration:** Header banner support for branding.
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 EcommerceHTML/
@@ -25,7 +28,7 @@ EcommerceHTML/
     └── nithya.png            # Store banner/logo
 ````
 
-## 🛠️ Installation & Usage
+## Installation & Usage
 
 1.  **Clone the repository:**
     ```bash
@@ -34,9 +37,9 @@ EcommerceHTML/
 2.  **Open the project:**
     Navigate to the folder and open `Home.html` in any modern web browser.
 
-## 📝 Future Enhancements
+## Future Enhancements
 
-  - [ ] Add custom CSS for advanced styling (moving away from inline attributes).
-  - [ ] Implement JavaScript for cart functionality.
-  - [ ] Add a responsive navigation bar for mobile users.
+* Add custom CSS for advanced styling (moving away from inline attributes).
+* Implement JavaScript for cart functionality.
+* Add a responsive navigation bar for mobile users.
 
