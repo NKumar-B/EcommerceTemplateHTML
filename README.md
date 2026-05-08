@@ -35,7 +35,7 @@ EcommerceHTML/
     git clone [https://github.com/NKumar-B/EcommerceTemplateHTML.git](https://github.com/NKumar-B/EcommerceTemplateHTML.git)
     ```
 2.  **Open the project:**
-    Navigate to the folder and open `Home.html` in any modern web browser.
+    Navigate to the folder and open `Home.html` in any modern web browser. 
 
 ## Future Enhancements
 
