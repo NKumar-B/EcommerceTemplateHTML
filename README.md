@@ -13,6 +13,7 @@ Nithya Mart is a multi-page web application template designed for a retail envir
 * **Contact Information:** Ready-to-use footer with mobile, email, and website placeholders.
 * **Image Integration:** Header banner support for branding.
 
+
 ## Project Structure
 
 ```text
