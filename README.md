@@ -29,6 +29,7 @@ EcommerceHTML/
     └── nithya.png            # Store banner/logo
 ````
 
+
 ## Installation & Usage
 
 1.  **Clone the repository:**
